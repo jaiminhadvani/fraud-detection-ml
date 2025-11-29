@@ -169,36 +169,3 @@ prediction = model.predict(sample)
 print("Fraud" if prediction[0] == 1 else "Not Fraud")
 ```
 
----
-
-# 🎯 Skills You Will Learn
-- Data Preprocessing  
-- Feature Scaling  
-- Handling Imbalanced Data (SMOTE)  
-- Model Training & Comparison  
-- ROC-AUC Analysis  
-- Saving & Loading Models  
-- Modular Python development  
-- Real-world ML fraud detection  
-
----
-
-# 🤝 Contributing
-Pull requests are welcome!  
-Feel free to suggest improvements or new model experiments.
-
----
-
-# 📜 License
-This project is covered under the **MIT License**.
-
----
-
-# ⭐ Want Enhancements?
-I can generate:
-- A README banner  
-- A Jupyter Notebook version  
-- A PDF report  
-- A LinkedIn project post  
-
-Just ask **"Generate banner"** or **"Create notebook file content"**.
